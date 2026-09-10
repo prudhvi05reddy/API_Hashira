@@ -1,0 +1,6 @@
+{
+  "name": "ATS Resume Analyzer",
+  "description": "AI-powered ATS Resume Analyzer for recruiters to evaluate candidate resumes against Job Descriptions with detailed compatibility scoring and gap analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
